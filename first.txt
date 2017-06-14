@@ -1,2 +1,1 @@
-I like to become a MBA.
 This is our first commit.
